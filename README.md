@@ -13,3 +13,6 @@ Train by GPU (Tesla K80)
 
 --------------------------------------------------------------------
 v0.1.0 | support person and car detection | trained x2000 steps    |   
+
+--------------------------------------------------------------------
+v0.1.1 | support person and car detection | trained x10000 steps   |
