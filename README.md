@@ -5,6 +5,7 @@ Road driving Objects detection by TENSORFLOW 2.6
 
 The code is only v0.1.0 beta checkpoint on training result.
 Therefore, no other meaning, cannot be used without other tools or notebook.
+Full model file is on release page.
 
 -----------------------------------------------------------------------------
 
