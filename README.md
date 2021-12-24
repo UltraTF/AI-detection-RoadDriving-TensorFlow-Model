@@ -19,3 +19,7 @@ v0.1.1 | support person and car detection | trained x10000 steps   |
 
 --------------------------------------------------------------------
 v0.2.0 | support bus and car detection    | trained x12000 steps   |
+
+--------------------------------------------------------------------
+https://github.com/UltraTF/AI-detection-RoadDriving-TensorFlow-Model/blob/main/Road_Detection.ipynb
+using ipynb on colab or other notebook to run the detection (Remember Using NVIDIA's GPU)
