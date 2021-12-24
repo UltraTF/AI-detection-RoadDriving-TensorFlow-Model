@@ -1,5 +1,5 @@
 # AI-detection-RoadDriving-TensorFlow-Model
-Road driving Objects detection by TENSORFLOW 2.6
+Road driving Objects detection by TENSORFLOW 2.6/2,7
 
 -----------------------------------------------------------------------------
 
@@ -16,3 +16,6 @@ v0.1.0 | support person and car detection | trained x2000 steps    |
 
 --------------------------------------------------------------------
 v0.1.1 | support person and car detection | trained x10000 steps   |
+
+--------------------------------------------------------------------
+v0.2.0 | support bus and car detection    | trained x12000 steps   |
